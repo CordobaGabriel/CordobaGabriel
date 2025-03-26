@@ -5,7 +5,7 @@ My work spans sectors such as education, environment, social, and wine, deliveri
 
 <!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
 <p>
-  <a href="[https://https://www.linkedin.com/in/cordobagabriel/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/cordobagabriel"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-Expert-_.svg?logo=java"></a>
   <a href="#"><img src="https://img.shields.io/badge/SQL-Expert-_.svg?logo=kotlin"></a>
   <a href="#"><img src="https://img.shields.io/badge/Power BI-Expert-_.svg"></a>
