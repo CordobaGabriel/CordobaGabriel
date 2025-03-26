@@ -15,3 +15,21 @@ My work spans sectors such as education, environment, social, and wine, deliveri
 </p>
 
 <hr>
+
+## Brazilian Ecommerce Analysis Project: OLIST
+
+-Data Access:
+**Use Google Drive**
+
+To run the notebook with the files on Google Drive, follow these steps:
+
+1️⃣ Open the shared folder on Drive: [Google Drive Folder](https://drive.google.com/drive/folders/1TBtJU84YxLyQ8Pi2-m1kcc4EG1Qzjx5Q)  
+2️⃣ Click on "Add shortcut to Drive"  
+3️⃣ Save it in your Drive  
+4️⃣ Run the notebooks on Google Colab  
+
+- Along with the 3 notebooks, you will find a presentation and a dashboard.
+
+<hr>
+
+
