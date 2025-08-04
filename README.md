@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQFhh1NbZ3rC1A/profile-displaybackgroundimage-shrink_350_1400/B4DZWbDDzKHYAY-/0/1742063026061?e=1748476800&v=beta&t=NGuV2QF1iDtwfEl_1LmPbHLqHrNPpVhKKwKBbz9B2QM">
 
-I’m a Data Analyst with over 10 years of experience leading high-impact projects, an MBA in Business Administration, and a solid background in Project Management. I leverage Python, SQL, Looker, Tableau, Power BI, MongoDB, and BigQuery to transform data into actionable insights, streamline processes, and support data-driven decision-making.
+I’m a Data Analyst with over 8 years of experience leading high-impact projects, an MBA in Business Administration, and a solid background in Project Management. I leverage Python, SQL, Looker, Tableau, Power BI, MongoDB, and BigQuery to transform data into actionable insights, streamline processes, and support data-driven decision-making.
 My work spans sectors such as education, environment, social, and wine, delivering measurable results and coordinating multidisciplinary teams. If you’re looking for someone who combines strategy, data analytics, and project management to drive value, let’s connect!
 
 <!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
