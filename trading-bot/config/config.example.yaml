@@ -1,0 +1,22 @@
+exchange: binance
+symbol: BTC/USDT
+timeframe: 1h
+limit: 1000            # número de velas a descargar
+
+strategy:
+  name: sma_crossover  # sma_crossover | rsi
+  params:
+    fast: 20
+    slow: 50
+
+backtest:
+  initial_capital: 1000.0
+  fee_rate: 0.001      # 0.1% por operación
+
+risk:
+  position_pct: 1.0    # fracción del capital por operación (0-1)
+  stop_loss_pct: 0.03  # 3%
+  take_profit_pct: 0.06
+
+paper:
+  poll_seconds: 60
