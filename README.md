@@ -1,35 +1,49 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQFhh1NbZ3rC1A/profile-displaybackgroundimage-shrink_350_1400/B4DZWbDDzKHYAY-/0/1742063026061?e=1748476800&v=beta&t=NGuV2QF1iDtwfEl_1LmPbHLqHrNPpVhKKwKBbz9B2QM">
+<img src="assets/banner.svg" alt="Gabriel Cordoba · Data Analyst" width="100%">
 
-I’m a Data Analyst with over 8 years of experience leading high-impact projects, an MBA in Business Administration, and a solid background in Project Management. I leverage Python, SQL, Looker, Tableau, Power BI, MongoDB, and BigQuery to transform data into actionable insights, streamline processes, and support data-driven decision-making.
-My work spans sectors such as education, environment, social, and wine, delivering measurable results and coordinating multidisciplinary teams. If you’re looking for someone who combines strategy, data analytics, and project management to drive value, let’s connect!
+### Hi, I'm Gabriel 👋
 
-<!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
+I'm a **Data Analyst** who combines strategy, data analytics and project management to drive value.
+
+- 📊 **8+ years** leading high-impact projects, from data to decisions.
+- 🎓 **MBA** in Business Administration, **Master's in Data Analytics** and a solid background in **Project Management**.
+- 🌎 Experience in **education, environment, social and wine** sectors: measurable results and multidisciplinary teams.
+- 🤝 Looking for someone who turns data into actionable insights and streamlines processes? **Let's connect!**
+
 <p>
-  <a href="https://www.linkedin.com/in/cordobagabriel"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-Expert-_.svg?logo=java"></a>
-  <a href="#"><img src="https://img.shields.io/badge/SQL-Expert-_.svg?logo=kotlin"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Power BI-Expert-_.svg"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Looker-Expert-_.svg"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Tableau-Expert-_.svg"></a>
-  <a href="#"><img src="https://img.shields.io/badge/ETL-Expert-_.svg"></a>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/ETL-5B6785?style=for-the-badge" alt="ETL">
 </p>
+
+<a href="https://www.linkedin.com/in/cordobagabriel"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <hr>
 
-## Brazilian Ecommerce Analysis Project: OLIST
+## ⭐ Featured project · Brazilian E-commerce Analysis: OLIST
 
--Data Access:
-**Use Google Drive**
+### Executive dashboard in Power BI · [View repository →](https://github.com/CordobaGabriel/olist-powerbi-dashboard)
 
-To run the notebook with the files on Google Drive, follow these steps:
+<a href="https://github.com/CordobaGabriel/olist-powerbi-dashboard">
+  <img src="https://raw.githubusercontent.com/CordobaGabriel/olist-powerbi-dashboard/main/docs/img/resumen.png" alt="Olist executive dashboard" width="100%">
+</a>
+
+A five-page leadership dashboard answering *are we on track, why, and where do we act first?* It is built on a star-schema model (Power Query + 120+ DAX measures) and versioned as a Power BI Project (PBIP) whose report is generated and validated with Python. It covers profitability with Pareto/ABC, the root cause of late deliveries, cohort retention, a year-end projection against target and what-if scenarios.
+
+**Highlights (Jan–Aug 2018):** sales +146% YoY · year-end run-rate at 83% of target · 75% of late deliveries happen in transit · 16 of 63 categories drive 80% of the margin.
+
+`Power BI` `DAX` `Power Query` `PBIP / TMDL` `Python`
+
+### Exploratory analysis (notebooks)
+
+To run the notebooks with the files on Google Drive:
 
 1️⃣ Open the shared folder on Drive: [Google Drive Folder](https://drive.google.com/drive/folders/1TBtJU84YxLyQ8Pi2-m1kcc4EG1Qzjx5Q)  
 2️⃣ Click on "Add shortcut to Drive"  
 3️⃣ Save it in your Drive  
 4️⃣ Run the notebooks on Google Colab  
 
-- Along with the 3 notebooks, you will find a presentation and a dashboard.
-
-<hr>
-
-
+Along with the 3 notebooks, the folder includes a presentation and the original dashboard.
